@@ -1,7 +1,7 @@
 {
   "name": "Avis",
   "short_name": "Avis",
-  "start_url": "/index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
   "description": "Avis Car Rental",
