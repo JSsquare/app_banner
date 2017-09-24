@@ -1,0 +1,40 @@
+{
+  "name": "Avis",
+  "short_name": "Avis",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Avis Car Rental",
+  "icons": [{
+    "src": "avis.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "avis.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "avis.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "avis.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "avis.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "avis.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+"prefer_related_applications": true,
+"related_applications": [
+  {
+  "platform": "play",
+  "id": "com.avis.androidapp"
+  }
+]    
+}
