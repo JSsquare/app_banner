@@ -37,7 +37,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.avis.androidapp"
+      "id": "com.ehi.enterprise.android"
     }
   ],
   "start_url": "./index.html",
