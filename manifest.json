@@ -37,7 +37,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.ehi.enterprise.android"
+      "id": "com.google.samples.apps.iosched"
     }
   ],
   "start_url": "./index.html",
